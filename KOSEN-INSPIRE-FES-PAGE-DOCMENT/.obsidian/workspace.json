@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "425930b664fa57ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "a04b29d032ffb9a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a3b68cbca020668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "リンク集.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "リンク集"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f47dc256003972d",
+    "type": "split",
+    "children": [
+      {
+        "id": "96a46cc50dfba88d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6281b595af0d6cd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "b06608e73fd7f08b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "419325469c51746a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7776b0c4ea8943c",
+    "type": "split",
+    "children": [
+      {
+        "id": "77c31b4818d0af52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1f460d4f0cebd20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "リンク集.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "リンク集へのバックリンク"
+            }
+          },
+          {
+            "id": "b282576c7de8a935",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "リンク集.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "リンク集からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "bf0207d1df87d7a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "f15708ddb73b7d72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "リンク集.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "リンク集のアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "7a3b68cbca020668",
+  "lastOpenFiles": [
+    "タスク一覧.md",
+    "リンク集.md",
+    "ticket/機能要件.md",
+    "ticket/技術要件.md",
+    "web_page/機能要件.md",
+    "web_page/技術要件.md",
+    "About KOSEN INSPIRE FES.md",
+    "処理の流れ.canvas",
+    "task/On Hold",
+    "task/Not Started",
+    "task/In Progress",
+    "task/complite",
+    "task",
+    "2025-05-06.md",
+    "ticket",
+    "web_page"
+  ]
+}
